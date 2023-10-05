@@ -1,5 +1,5 @@
 def call() {
-    NexusArtifactUploader (
+    nexusArtifactUploader (
         artifacts: [
             [
                 artifactId: '01-maven-web-app',
