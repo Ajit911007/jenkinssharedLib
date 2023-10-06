@@ -8,7 +8,7 @@ def call() {
                 type: 'war'
             ]
         ],
-        credentialsId: 'nexus3',
+        credentialsId: 'nexus-credentials',
         groupId: 'in.ashokit',
         nexusUrl: 'http://13.41.240.110:8081/repository/ajit-snapshot/',
         protocol: 'http',
